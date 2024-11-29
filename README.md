@@ -1,2 +1,4 @@
 # practica_uno_PIA
-con lenguaje de marcación, una breve explicación de la tarea, y un archivo sencillo "Hola Mundo" en el lenguaje de programación Python. 
+Estoy haciendo la practica del tema 1 del modulo de ***Programacion de la inteligencia artificial***
+donde tengo que crear una cuenta de **Github** y crear un **Hola Mundo**
+
